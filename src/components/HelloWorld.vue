@@ -1,5 +1,5 @@
 <template>
-  <div class="hello">
+  <div class="text-light">
     <h1>{{ msg }}</h1>
       
   </div>
